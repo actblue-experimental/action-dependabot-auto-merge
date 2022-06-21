@@ -2,7 +2,7 @@
 # Note: this file is automatically managed in template-template #
 # ------------------------------------------------------------- #
 
-on: pull_request_target
+on: workflow_dispatch
 
 name: pull_request_target
 
